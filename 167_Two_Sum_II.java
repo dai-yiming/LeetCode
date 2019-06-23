@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-// Two Sum II - Input array is sorted
+// Two Sum II - Input array is sorted => Traverse back and forth
 // https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 
 // Given an array of integers that is already sorted in ascending order, find two numbers such that they add up to a specific target number.
@@ -19,7 +19,6 @@ import java.util.HashMap;
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
         int front = 0, back = numbers.length - 1;
-        HashMap<Integer, Integer> hash = new HashMap<>();
 
         while (true) {
             int sum = numbers[front] + numbers[back];
