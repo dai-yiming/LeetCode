@@ -117,4 +117,4 @@ class Solution {
 // Runtime: 3 ms, faster than 100.00% of Java online submissions for Roman to Integer.
 // Memory Usage: 36.1 MB, less than 99.95% of Java online submissions for Roman to Integer.
 
-// @YIMING DAI - 2019.06.23
+// YIMING DAI - 2019.06.23

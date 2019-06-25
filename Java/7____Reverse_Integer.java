@@ -52,4 +52,4 @@ class Solution {
 // Luckily, it is easy to check beforehand whether or this statement would cause an overflow.
 // max_int = 2147483647 || min_int = -2147483648
 
-// @YIMING DAI - 2019.06.23
+// YIMING DAI - 2019.06.23
