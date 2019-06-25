@@ -73,4 +73,4 @@ class Solution {
 // Time complexity : O(n). The entire tree is traversed only once in the worst case. Here, nn refers to the number of nodes in the given tree.
 // Space complexity : O(n). The size of the setset can grow upto nn in the worst case.
 
-// @YIMING DAI - 2019.06.22
+// YIMING DAI - 2019.06.22

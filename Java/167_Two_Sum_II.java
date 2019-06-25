@@ -40,4 +40,4 @@ class Solution {
 // Memory Usage:38.3 MB, less than 61.99% of Java online submissions for Two Sum
 // II- Input array is sorted.
 
-// @YIMING DAI - 2019.06.22
+// YIMING DAI - 2019.06.22
