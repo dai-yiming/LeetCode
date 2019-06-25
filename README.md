@@ -1,8 +1,6 @@
 # LeetCode
 
-[中文 - README](README_CN.md)
-
-[English - README](README_EN.md)
+[中文 - README](README_CN.md) | [English - README](README_EN.md)
 
 ### How to contribute?
 
