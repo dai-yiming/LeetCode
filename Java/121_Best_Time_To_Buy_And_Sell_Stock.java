@@ -37,4 +37,4 @@ class Solution {
 
 // Solution: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solution/
 
-// @YIMING DAI - 2019.06.25
+// YIMING DAI - 2019.06.25

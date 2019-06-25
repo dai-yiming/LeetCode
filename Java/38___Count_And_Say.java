@@ -55,4 +55,4 @@ class Solution {
 // Runtime: 1 ms, faster than 98.90% of Java online submissions for Count and Say.
 // Memory Usage: 34.3 MB, less than 100.00% of Java online submissions for Count and Say.
 
-// @YIMING DAI - 2019.06.25
+// YIMING DAI - 2019.06.25

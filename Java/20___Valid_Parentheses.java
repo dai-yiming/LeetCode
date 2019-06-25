@@ -39,4 +39,4 @@ class Solution {
 
 // Solution: https://leetcode.com/problems/valid-parentheses/solution/
 
-// @YIMING DAI - 2019.06.25
+// YIMING DAI - 2019.06.25
