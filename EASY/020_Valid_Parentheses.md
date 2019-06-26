@@ -3,6 +3,7 @@
 ---
 
 ### :star: Question
+
 - Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 - An input string is valid if:
     - Open brackets must be closed by the same type of brackets.
@@ -12,6 +13,7 @@
 ---
 
 ### :car: Example
+
 Input: "()"
 Output: true
 
@@ -30,7 +32,9 @@ Output: true
 ---
 
 ### :hammer: Code
+
 #### :coffee: Java Version - 1
+
 ```java
 import java.util.HashMap;
 import java.util.Stack;
@@ -76,4 +80,5 @@ class Solution {
 ---
 
 ### :pen: Author
+
 YIMING DAI-2019.06.25

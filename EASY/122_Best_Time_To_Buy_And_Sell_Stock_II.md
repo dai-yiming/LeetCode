@@ -3,6 +3,7 @@
 ---
 
 ### :star: Question
+
 - Say you have an array for which the ith element is the price of a given stock on day i.
 - Design an algorithm to find the maximum profit. 
 - You may complete as many transactions as you like (i.e., buy one and sell one share of the stock multiple times).
@@ -11,6 +12,7 @@
 ---
 
 ### :car: Example
+
 Input: [7,1,5,3,6,4]
 Output: 7
 Explanation: Buy on day 2 (price = 1) and sell on day 3 (price = 5), profit = 5-1 = 4.
@@ -29,7 +31,9 @@ Explanation: In this case, no transaction is done, i.e. max profit = 0.
 ---
 
 ### :hammer: Code
+
 #### :coffee: Java Version - 1
+
 ```java
 // Refer-Beat 99.98% !!
 class Solution {
@@ -70,4 +74,5 @@ class Solution {
 ---
 
 ### :pen: Author
+
 YIMING DAI - 2019.06.25

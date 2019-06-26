@@ -3,6 +3,7 @@
 ---
 
 ### :star: Question
+
 - Given an array of integers that is already sorted in ascending order, find two numbers such that they add up to a specific target number.
 - The function twoSum should return indices of the two numbers such that they add up to the target, where index1 must be less than index2.
 - Note
@@ -12,6 +13,7 @@
 ---
 
 ### :car: Example
+
 Input: numbers = [2,7,11,15], target = 9
 Output: [1,2]
 Explanation: The sum of 2 and 7 is 9. Therefore index1 = 1, index2 = 2.
@@ -19,7 +21,9 @@ Explanation: The sum of 2 and 7 is 9. Therefore index1 = 1, index2 = 2.
 ---
 
 ### :hammer: Code
+
 #### :coffee: Java Version - 1
+
 ```java
 import java.util.HashMap;
 
@@ -42,6 +46,7 @@ class Solution {
     }
 }
 ```
+
 - Runtime: 0 ms, faster than 100.00% of Java online submissions for Two Sum II - Input array is sorted.
 - Memory Usage:38.3 MB, less than 61.99% of Java online submissions for Two Sum
 II - Input array is sorted.
@@ -49,9 +54,11 @@ II - Input array is sorted.
 ---
 
 ### :pencil: Explanation
+
 Traverse back and forth
 
 ---
 
 ### :pen: Author
+
 YIMING DAI - 2019.06.22

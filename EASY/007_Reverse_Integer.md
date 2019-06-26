@@ -3,11 +3,13 @@
 ---
 
 ### :star: Question
+
 Given a 32-bit signed integer, reverse digits of an integer.
 
 ---
 
 ### :car: Example
+
 Input: 123
 Output: 321
 
@@ -23,7 +25,9 @@ Assume we are dealing with an environment which could only store integers within
 ---
 
 ### :hammer: Code
+
 #### :coffee: Java Version - 1
+
 ```java
 class Solution {
     public int reverse(int x) {
@@ -58,4 +62,5 @@ class Solution {
 ---
 
 ### :pen: Author
+
 YIMING DAI - 2019.06.23

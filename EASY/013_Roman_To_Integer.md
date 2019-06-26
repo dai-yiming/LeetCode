@@ -4,6 +4,7 @@
 ---
 
 ### :star: Question
+
 - Given a roman numeral, convert it to an integer.
 - Input is guaranteed to be within the range from 1 to 3999.
 - Roman numerals are represented by seven different symbols: I(1), V(5), X(10), L(50), C(100), D(500), and M(1000).
@@ -11,6 +12,7 @@
 ---
 
 ### :pencil: Explanation
+
 - Two is written as II in Roman numeral, just two one's added together. Twelve is written as, XII, which is simply X + II. The number twenty seven is written as XXVII, which is XX + V + II.
 - Roman numerals are usually written largest to smallest from left to right. However, the numeral for four is not IIII. Instead, the number four is written as IV. Because the one is before the five we subtract it making four. The same principle applies to the number nine, which is written as IX. There are six instances where subtraction is used:
 
@@ -21,6 +23,7 @@
 ---
 
 ### :car: Example
+
 Input: "III"
 Output: 3
 
@@ -41,7 +44,9 @@ Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 ---
 
 ### :hammer: Code
+
 #### :coffee: Java Version - 1
+
 ```java
 import java.util.HashMap;
 
@@ -115,10 +120,12 @@ class Solution {
     }
 }
 ```
+
 - Runtime: 3 ms, faster than 100.00% of Java online submissions for Roman to Integer.
 - Memory Usage: 36.1 MB, less than 99.95% of Java online submissions for Roman to Integer.
 
 ---
 
 ### :pen: Author
+
 YIMING DAI - 2019.06.23
