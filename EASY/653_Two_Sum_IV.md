@@ -10,7 +10,7 @@ two elements in the BST such that their sum is equal to the given target.
 ---
 
 ### :hammer: Code
-#### :coffee:Java Version - 1
+#### :coffee: Java Version - 1
 ```java
 import java.util.HashSet;
 

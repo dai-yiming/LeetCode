@@ -17,7 +17,7 @@ return [0, 1].
 ---
 
 ### :hammer: Code
-#### :coffee:Java Version - 1
+#### :coffee: Java Version - 1
 ```java
 import java.util.HashMap;
 

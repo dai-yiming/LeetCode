@@ -29,7 +29,7 @@ Explanation: In this case, no transaction is done, i.e. max profit = 0.
 ---
 
 ### :hammer: Code
-#### :coffee:Java Version - 1
+#### :coffee: Java Version - 1
 ```java
 // Refer-Beat 99.98% !!
 class Solution {

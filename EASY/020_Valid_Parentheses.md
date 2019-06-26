@@ -30,7 +30,7 @@ Output: true
 ---
 
 ### :hammer: Code
-#### :coffee:Java Version - 1
+#### :coffee: Java Version - 1
 ```java
 import java.util.HashMap;
 import java.util.Stack;

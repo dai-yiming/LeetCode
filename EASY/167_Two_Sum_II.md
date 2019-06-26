@@ -19,7 +19,7 @@ Explanation: The sum of 2 and 7 is 9. Therefore index1 = 1, index2 = 2.
 ---
 
 ### :hammer: Code
-#### :coffee:Java Version - 1
+#### :coffee: Java Version - 1
 ```java
 import java.util.HashMap;
 

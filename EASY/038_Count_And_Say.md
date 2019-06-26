@@ -27,7 +27,7 @@ Output: "1211"
 ---
 
 ### :hammer: Code
-#### :coffee:Java Version - 1
+#### :coffee: Java Version - 1
 ```java
 class Solution {
     public String countAndSay(int n) {

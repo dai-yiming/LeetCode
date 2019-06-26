@@ -23,7 +23,7 @@ Assume we are dealing with an environment which could only store integers within
 ---
 
 ### :hammer: Code
-#### :coffee:Java Version - 1
+#### :coffee: Java Version - 1
 ```java
 class Solution {
     public int reverse(int x) {

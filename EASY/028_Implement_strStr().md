@@ -18,7 +18,7 @@ Output: -1
 ---
 
 ### :hammer: Code
-#### :coffee:Java Version - 1
+#### :coffee: Java Version - 1
 ```java
 class Solution {
     public int strStr(String haystack, String needle) {

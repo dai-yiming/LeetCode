@@ -15,7 +15,7 @@ Output: 1->1->2->3->4->4
 ---
 
 ### :hammer: Code
-#### :coffee:Java Version - 1
+#### :coffee: Java Version - 1
 ```java
 /**
  * Definition for singly-linked list.
