@@ -33,4 +33,3 @@
 <a href="https://github.com/Mint-io">
     <img src="https://avatars1.githubusercontent.com/u/52114394?s=400&v=4" width="30px">
 </a> 
-:bulb: Pull request and throw Issues for better performance of code
