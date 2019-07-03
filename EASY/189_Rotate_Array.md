@@ -1,7 +1,5 @@
 # :books: [Rotate Array](https://leetcode.com/problems/rotate-array/)
 
----
-
 ### :star: Question
 
 Given an array, rotate the array to the right by k steps, where k is non-negative.

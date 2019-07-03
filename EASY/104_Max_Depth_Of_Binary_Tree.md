@@ -1,7 +1,5 @@
 # :books: [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 
----
-
 ### :star: Question
 
 - Given a binary tree, find its maximum depth.

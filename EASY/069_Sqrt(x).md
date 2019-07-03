@@ -1,7 +1,5 @@
 # :books: [Sqrt(x)](https://leetcode.com/problems/sqrtx/)
 
----
-
 ### :star: Question
 
 - Compute and return the square root of x, where x is guaranteed to be a non-negative integer.

@@ -1,7 +1,5 @@
 # :books: [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 
----
-
 ### :star: Question
 
 Given a sorted linked list, delete all duplicates such that each element appear only once.

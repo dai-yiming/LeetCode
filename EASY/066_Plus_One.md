@@ -1,7 +1,5 @@
 # :books: [Plus One](https://leetcode.com/problems/plus-one/)
 
----
-
 ### :star: Question
 
 - Given a non-empty array of digits representing a non-negative integer, plus one to the integer.

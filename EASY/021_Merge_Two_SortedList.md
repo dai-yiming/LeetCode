@@ -1,7 +1,5 @@
 # :books: [Merge Two Sorted List](https://leetcode.com/problems/merge-two-sorted-lists/)
 
----
-
 ### :star: Question
 
 - Merge two sorted linked lists and return it as a new list.

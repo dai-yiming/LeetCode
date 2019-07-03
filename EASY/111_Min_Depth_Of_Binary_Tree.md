@@ -1,7 +1,5 @@
 # :books: [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 
----
-
 ### :star: Question
 
 - Given a binary tree, find its minimum depth.

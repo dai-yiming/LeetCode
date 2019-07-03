@@ -1,7 +1,5 @@
 # :books: [ Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
 
----
-
 ### :star: Question
 
 - Given a binary tree, determine if it is height-balanced.

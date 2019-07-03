@@ -1,7 +1,5 @@
 # :books: [Count and Say](https://leetcode.com/problems/count-and-say/description/)
 
----
-
 ### :star: Question
 
 - The count-and-say sequence is the sequence of integers with the first five terms as following: 1 => 11 => 21 => 1211

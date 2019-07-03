@@ -1,8 +1,6 @@
 
 # :books: [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 
----
-
 ### :star: Question
 
 - Given a roman numeral, convert it to an integer.

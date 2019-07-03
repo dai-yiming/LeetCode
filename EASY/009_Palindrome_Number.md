@@ -1,7 +1,5 @@
 # :books: [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 
----
-
 ### :star: Question
 
 - Determine whether an integer is a palindrome.

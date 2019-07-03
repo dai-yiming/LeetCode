@@ -1,7 +1,5 @@
 # :books: [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)
 
----
-
 ### :star: Question
 
 - Given a text file file.txt that contains list of phone numbers (one per line), write a one liner bash script to print all valid phone numbers.

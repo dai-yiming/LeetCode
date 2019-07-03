@@ -1,7 +1,5 @@
 # :books: [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 
----
-
 ### :star: Question
 
 - Given a linked list, determine if it has a cycle in it.

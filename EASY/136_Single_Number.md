@@ -1,7 +1,5 @@
 # :books: [Single Number](https://leetcode.com/problems/single-number/)
 
----
-
 ### :star: Question
 
 Given a non-empty array of integers, every element appears twice except for one. Find that single one.

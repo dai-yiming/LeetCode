@@ -1,7 +1,5 @@
 # :books: [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 
----
-
 ### :star: Question
 
 Reverse a singly linked list.

@@ -1,7 +1,5 @@
 # :books: [Happy Number](https://leetcode.com/problems/happy-number/)
 
----
-
 ### :star: Question
 
 - Write an algorithm to determine if a number is "happy".

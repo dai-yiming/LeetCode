@@ -1,7 +1,5 @@
 # :books: [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
 
----
-
 ### :star: Question
 
 Remove all elements from a linked list of integers that have value val.

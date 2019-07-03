@@ -1,7 +1,5 @@
 # :books: [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 
----
-
 ### :star: Question
 
 Given a 32-bit signed integer, reverse digits of an integer.

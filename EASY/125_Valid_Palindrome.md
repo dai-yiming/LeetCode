@@ -1,7 +1,5 @@
 # :books: [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 
----
-
 ### :star: Question
 
 - Given a string, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases.

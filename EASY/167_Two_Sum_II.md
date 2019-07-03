@@ -1,7 +1,5 @@
 # :books: [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 
----
-
 ### :star: Question
 
 - Given an array of integers that is already sorted in ascending order, find two numbers such that they add up to a specific target number.
