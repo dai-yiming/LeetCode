@@ -12,7 +12,8 @@
 
 ### :car: Example
 
-
+Input: "1" "1"
+Output: "2"
 
 ---
 
