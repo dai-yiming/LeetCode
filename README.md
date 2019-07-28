@@ -11,13 +11,9 @@
     A collection of LeetCode Q&A
   </h3>
 
-  <a href="https://github.com/Mint-io/LeetCode/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/Mint-io/LeetCode.svg?style=flat-square" alt="">
-  </a>
-
 </div>
 
-<div align="center" width="100px" height="100px">
+<div align="center" width="40px" height="40px">
   <img src="ss.png">
 
 </div>
