@@ -1,10 +1,29 @@
-# LeetCode
-
 [中文](README_CN.md) | [English](README_EN.md)
+
+<div align="center">
+  <a href="">
+    <img src="logo.png"  width="80px" height="80px">
+  </a>
+  <h1 align="center">
+    LeetCode
+  </h1>
+  <h3 align="center">
+    A collection of LeetCode Q&A
+  </h3>
+
+  <a href="https://github.com/Mint-io/LeetCode/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/Mint-io/LeetCode.svg?style=flat-square" alt="">
+  </a>
+
+</div>
+
+<div align="center" width="400px" height="400px">
+  <img src="ss.png">
+
+</div>
 
 ### Intro.
 
-- A collection of LeetCode Q&A
 - Start Time: June 22, 2019
 - Language: Java
 
