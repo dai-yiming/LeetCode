@@ -17,7 +17,7 @@
 
 </div>
 
-<div align="center" width="240px" height="240px">
+<div align="center" width="100px" height="100px">
   <img src="ss.png">
 
 </div>
