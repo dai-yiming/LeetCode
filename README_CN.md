@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="ss.png" width="400px" height="260px">
+  <img src="ss.png" width="600px" height="400px">
 </div>
 
 ### 简介.
