@@ -9,10 +9,8 @@
   </h1>
 </div>
 
-
 <div align="center">
-  <img src="ss.png">
-
+  <img src="ss.png" width="400px" height="260px">
 </div>
 
 ### 简介.
