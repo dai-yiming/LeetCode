@@ -7,21 +7,15 @@
   <h1 align="center">
     LeetCode
   </h1>
-  <h3 align="center">
-    LeetCode 答案解析集合
-  </h3>
-
 </div>
 
-<br />
-
 <div align="center">
-  <img src="ss.png">
-
+  <img src="ss.png" width="600px" height="400px">
 </div>
 
 ### 简介.
 
+- LeetCode 答案解析集合
 - 启动日期：2019年06月22号
 - 主语言：Java
 
