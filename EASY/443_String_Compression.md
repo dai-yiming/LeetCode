@@ -28,24 +28,28 @@ Explanation:
 ```java
 class Solution {
     public int compress(char[] chars) {
-        int anchor = 0, write = 0;
-        for (int read = 0; read < chars.length; read++) {
-            if (read + 1 == chars.length || chars[read + 1] != chars[read]) {
-                chars[write++] = chars[anchor];
-                if (read > anchor) {
-                    for (char c: ("" + (read - anchor + 1)).toCharArray()) {
-                        chars[write++] = c;
-                    }
+        int anchor = 0, read = 0;
+        while (read < chars.length) {
+            char currentChar = chars[read];
+            int count = 0;
+            while (read < chars.length && chars[read] == currentChar) {
+                count++;
+                read++;
+            }
+            chars[anchor++] = currentChar;
+            if (count > 1) {
+                for (char c : Integer.toString(count).toCharArray()) {
+                    chars[anchor++] = c;
                 }
-                anchor = read + 1;
             }
         }
-        return write;
+        return anchor;
     }
 }
 ```
 
-
+- Runtime: 1 ms, faster than 96.66% of Java online submissions for String Compression.
+- Memory Usage: 36.1 MB, less than 100.00% of Java online submissions for String Compression.
 
 ---
 
@@ -65,4 +69,4 @@ class Solution {
 
 ### :pen: Author
 
-YIMING DAI - 2019.08.11
+YIMING DAI - 2019.09.13
