@@ -7,10 +7,10 @@ Given a non-negative integer num, repeatedly add all its digits until the result
 --- 
 
 ### :car: Example
-
+```
 Input: 38
 Output: 2 
-
+```
 ---
 
 ### :hammer: Code

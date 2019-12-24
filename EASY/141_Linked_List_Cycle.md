@@ -9,9 +9,9 @@
 
 ### :car: Example
 
-Input: head = [3,2,0,-4], pos = 1
-Output: true
-Explanation: There is a cycle in the linked list, where tail connects to the second node.
+- Input: head = [3,2,0,-4], pos = 1
+- Output: true
+- Explanation: There is a cycle in the linked list, where tail connects to the second node.
 
 ---
 

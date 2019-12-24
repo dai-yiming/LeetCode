@@ -9,8 +9,8 @@
 
 ### :car: Example
 
-Input: [1,2], [1,null,2]
-Output: false
+- Input: [1,2], [1,null,2]
+- Output: false
 
 ---
 

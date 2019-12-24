@@ -9,12 +9,12 @@
 --- 
 
 ### :car: Example
-
+```
 Given nums = [-2, 0, 3, -5, 2, -1]
 
 sumRange(0, 2) -> 1
 sumRange(2, 5) -> -1
-
+```
 ---
 
 ### :hammer: Code

@@ -7,10 +7,10 @@ Given a positive integer num, write a function which returns True if num is a pe
 --- 
 
 ### :car: Example
-
+```
 Input: 16
 Output: true
-
+```
 ---
 
 ### :hammer: Code

@@ -7,13 +7,13 @@ Given an array, rotate the array to the right by k steps, where k is non-negativ
 ---
 
 ### :car: Example
-
+```
 Input: [-1,-100,3,99] and k = 2
 Output: [3,99,-1,-100]
 Explanation: 
 rotate 1 steps to the right: [99,-1,-100,3]
 rotate 2 steps to the right: [3,99,-1,-100]
-
+```
 ---
 
 ### :hammer: Code

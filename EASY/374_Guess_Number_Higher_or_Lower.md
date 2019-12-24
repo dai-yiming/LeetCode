@@ -8,10 +8,10 @@
 --- 
 
 ### :car: Example
-
+```
 Input: n = 10, pick = 6
 Output: 6
-
+```
 ---
 
 ### :hammer: Code

@@ -8,10 +8,10 @@
 --- 
 
 ### :car: Example
-
+```
 Input: x = 1, y = 4
 Output: 2
-
+```
 ---
 
 ### :hammer: Code

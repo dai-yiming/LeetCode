@@ -9,13 +9,13 @@
 --- 
 
 ### :car: Example
-
+```
 Input: s = "egg", t = "add"
 Output: true
 
 Input: s = "foo", t = "bar"
 Output: false
-
+```
 ---
 
 ### :hammer: Code

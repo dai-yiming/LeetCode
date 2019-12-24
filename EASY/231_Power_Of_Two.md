@@ -8,11 +8,11 @@
 --- 
 
 ### :car: Example
-
+```
 Input: 1
 Output: true 
 Explanation: 2^0 = 1
-
+```
 ---
 
 ### :hammer: Code

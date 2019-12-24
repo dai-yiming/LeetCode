@@ -8,8 +8,8 @@ Given a column title as appear in an Excel sheet, return its corresponding colum
 
 ### :car: Example
 
-Input: "AB"
-Output: 28
+- Input: "AB"
+- Output: 28
 
 ---
 

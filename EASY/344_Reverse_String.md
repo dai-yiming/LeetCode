@@ -9,10 +9,10 @@
 --- 
 
 ### :car: Example
-
+```
 Input: ["h","e","l","l","o"]
 Output: ["o","l","l","e","h"]
-
+```
 ---
 
 ### :hammer: Code

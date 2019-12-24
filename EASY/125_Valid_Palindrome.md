@@ -9,8 +9,8 @@
 
 ### :car: Example
 
-Input: "A man, a plan, a canal: Panama"
-Output: true
+- Input: "A man, a plan, a canal: Panama"
+- Output: true
 
 ---
 

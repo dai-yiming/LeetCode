@@ -8,9 +8,9 @@ Given an n-ary tree, return the level order traversal of its nodes' values. (ie,
 
 ### :car: Example
 
-Input:
+- Input:
 <img src="https://assets.leetcode.com/uploads/2018/10/12/narytreeexample.png" width=400cm />
-Output:
+- Output:
 [
      [1],
      [3,2,4],

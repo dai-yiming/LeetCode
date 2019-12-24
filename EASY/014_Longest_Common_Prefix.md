@@ -9,8 +9,8 @@
 
 ### :car: Example
 
-Input: ["flower","flow","flight"]
-Output: "fl"
+- Input: ["flower","flow","flight"]
+- Output: "fl"
 
 ---
 

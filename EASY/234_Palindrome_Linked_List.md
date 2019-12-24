@@ -7,10 +7,10 @@ Given a singly linked list, determine if it is a palindrome.
 --- 
 
 ### :car: Example
-
+```
 Input: 1->2->2->1
 Output: true
-
+```
 ---
 
 ### :hammer: Code
