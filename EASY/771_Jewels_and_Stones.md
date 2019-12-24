@@ -8,10 +8,10 @@
 --- 
 
 ### :car: Example
-
+```
 Input: J = "aA", S = "aAAbbbb"
 Output: 3
-
+```
 ---
 
 ### :hammer: Code

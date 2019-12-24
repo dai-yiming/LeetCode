@@ -8,10 +8,10 @@
 --- 
 
 ### :car: Example
-
+```
 Input: root = [10,5,15,3,7,null,18], L = 7, R = 15
 Output: 32
-
+```
 ---
 
 ### :hammer: Code

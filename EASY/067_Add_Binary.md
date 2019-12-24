@@ -9,8 +9,8 @@
 
 ### :car: Example
 
-Input: a = "11", b = "1"
-Output: "100"
+- Input: a = "11", b = "1"
+- Output: "100"
 
 ---
 

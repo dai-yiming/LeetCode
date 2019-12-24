@@ -7,10 +7,10 @@ Given a binary array, find the maximum number of consecutive 1s in this array.
 --- 
 
 ### :car: Example
-
+```
 Input: [1,1,0,1,1,1]
 Output: 3
-
+```
 ---
 
 ### :hammer: Code

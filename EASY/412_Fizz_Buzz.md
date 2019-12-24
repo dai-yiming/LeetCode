@@ -8,7 +8,7 @@
 --- 
 
 ### :car: Example
-
+```
 n = 15,
 
 Return:
@@ -29,7 +29,7 @@ Return:
     "14",
     "FizzBuzz"
 ]
-
+```
 ---
 
 ### :hammer: Code

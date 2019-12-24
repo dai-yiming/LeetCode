@@ -7,12 +7,12 @@ Given n points in the plane that are all pairwise distinct, a "boomerang" is a t
 --- 
 
 ### :car: Example
-
+```
 Input: [[0,0],[1,0],[2,0]]
 Output: 2
 Explanation:
 The two boomerangs are [[1,0],[0,0],[2,0]] and [[1,0],[2,0],[0,0]]
-
+```
 ---
 
 ### :hammer: Code

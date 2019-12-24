@@ -8,12 +8,12 @@
 --- 
 
 ### :car: Example
-
+```
 Input:
 s: "cbaebabacd" p: "abc"
 Output:
 [0, 6]
-
+```
 ---
 
 ### :hammer: Code

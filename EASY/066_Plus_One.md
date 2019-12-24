@@ -9,14 +9,14 @@
 ---
 
 ### :car: Example
-
+```
 Input: [4,3,2,1]
 Output: [4,3,2,2]
 Explanation: The array represents the integer 4321.
 
 Input: [9,9]
 Output: [1,0,0]
-
+```
 ---
 
 ### :hammer: Code

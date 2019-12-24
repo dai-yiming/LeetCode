@@ -7,10 +7,10 @@ Write a function to delete a node (except the tail) in a singly linked list, giv
 --- 
 
 ### :car: Example
-
+```
 Input: head = [4,5,1,9], node = 5
 Output: [4,1,9]
-
+```
 ---
 
 ### :hammer: Code

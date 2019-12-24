@@ -7,10 +7,10 @@ Write a function that takes a string as input and reverse only the vowels of a s
 --- 
 
 ### :car: Example
-
+```
 Input: "hello"
 Output: "holle"
-
+```
 ---
 
 ### :hammer: Code

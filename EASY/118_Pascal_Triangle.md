@@ -7,7 +7,7 @@ Given a non-negative integer numRows, generate the first numRows of Pascal's tri
 --- 
 
 ### :car: Example
-
+```
 Input: 5
 Output:
 [
@@ -17,7 +17,7 @@ Output:
   [1,3,3,1],
  [1,4,6,4,1]
 ]
-
+```
 ---
 
 ### :hammer: Code

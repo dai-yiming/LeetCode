@@ -7,11 +7,11 @@ Given a non-empty array of integers, return the third maximum number in this arr
 --- 
 
 ### :car: Example
-
+```
 Input: [1, 2]
 Output: 2
 Explanation: The third maximum does not exist, so the maximum (2) is returned instead.
-
+```
 ---
 
 ### :hammer: Code

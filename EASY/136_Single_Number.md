@@ -8,8 +8,8 @@ Given a non-empty array of integers, every element appears twice except for one.
 
 ### :car: Example
 
-Input: [4,1,2,1,2]
-Output: 4
+- Input: [4,1,2,1,2]
+- Output: 4
 
 ---
 
@@ -64,15 +64,15 @@ class Solution {
 ### :pencil: Explanation
 
 - Method 1
-    - We use bitwise XOR to solve the problem
-    - O ^ N = N
-    - N ^ N = 0
-    - N1 ^ N2 ^ N1 ^ N3 ^ N2 = (N1 ^ N1) ^ (N2 ^ N2) ^ N3 = N3
+  - We use bitwise XOR to solve the problem
+  - O ^ N = N
+  - N ^ N = 0
+  - N1 ^ N2 ^ N1 ^ N3 ^ N2 = (N1 ^ N1) ^ (N2 ^ N2) ^ N3 = N3
 - Method 2
-    - Traverse whole all elements in nums
-    - If `nums[i]` exists, pop it from hash table
-    - Else put it in hash table
-    - Finally only one element remains, pop it as a value
+  - Traverse whole all elements in nums
+  - If `nums[i]` exists, pop it from hash table
+  - Else put it in hash table
+  - Finally only one element remains, pop it as a value
 
 ---
 

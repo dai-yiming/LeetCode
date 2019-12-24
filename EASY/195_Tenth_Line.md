@@ -7,7 +7,7 @@
 --- 
 
 ### :car: Example
-
+```
 - Assume that file.txt has the following content:
 
 Line 1
@@ -23,7 +23,7 @@ Line 10
 
 - Your script should output the tenth line, which is:
 Line 10
-
+```
 ---
 
 ### :hammer: Code

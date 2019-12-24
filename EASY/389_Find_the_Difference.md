@@ -9,12 +9,12 @@
 --- 
 
 ### :car: Example
-
+```
 Input:
 s = "abcd"
 t = "abcde"
 Output: e
-
+```
 ---
 
 ### :hammer: Code

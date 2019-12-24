@@ -9,11 +9,11 @@
 --- 
 
 ### :car: Example
-
+```
 Input: secret = "1807", guess = "7810"
 Output: "1A3B"
 Explanation: 1 bull and 3 cows. The bull is 8, the cows are 0, 1 and 7.
-
+```
 ---
 
 ### :hammer: Code

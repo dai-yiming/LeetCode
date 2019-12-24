@@ -7,13 +7,13 @@ Given an array of integers and an integer k, find out whether there are two dist
 --- 
 
 ### :car: Example
-
+```
 Input: nums = [1,0,1,1], k = 1
 Output: true
 
 Input: nums = [1,2,3,1,2,3], k = 2
 Output: false
-
+```
 ---
 
 ### :hammer: Code

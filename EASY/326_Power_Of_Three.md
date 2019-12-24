@@ -7,10 +7,10 @@ Given an integer, write a function to determine if it is a power of three.
 --- 
 
 ### :car: Example
-
+```
 Input: 27
 Output: true
-
+```
 ---
 
 ### :hammer: Code

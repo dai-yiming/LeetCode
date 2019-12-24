@@ -7,10 +7,10 @@ Given a pattern and a string str, find if str follows the same pattern.
 --- 
 
 ### :car: Example
-
+```
 Input: pattern = "abba", str = "dog cat cat dog"
 Output: true
-
+```
 ---
 
 ### :hammer: Code

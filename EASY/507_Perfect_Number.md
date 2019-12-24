@@ -9,11 +9,11 @@
 --- 
 
 ### :car: Example
-
+```
 Input: 28
 Output: True
 Explanation: 28 = 1 + 2 + 4 + 7 + 14
-
+```
 ---
 
 ### :hammer: Code

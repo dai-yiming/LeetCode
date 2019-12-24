@@ -8,11 +8,11 @@
 --- 
 
 ### :car: Example
-
+```
 canConstruct("a", "b") -> false
 canConstruct("aa", "ab") -> false
 canConstruct("aa", "aab") -> true
-
+```
 ---
 
 ### :hammer: Code

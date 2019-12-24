@@ -7,10 +7,10 @@ Implement function ToLowerCase() that has a string parameter str, and returns th
 --- 
 
 ### :car: Example
-
+```
 Input: "Hello"
 Output: "hello"
-
+```
 ---
 
 ### :hammer: Code

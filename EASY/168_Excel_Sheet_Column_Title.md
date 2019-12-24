@@ -8,8 +8,8 @@ Given a positive integer, return its corresponding column title as appear in an 
 
 ### :car: Example
 
-Input: 28
-Output: "AB"
+- Input: 28
+- Output: "AB"
 
 ---
 

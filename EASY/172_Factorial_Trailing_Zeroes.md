@@ -1,13 +1,16 @@
-# :books: []()
+# :books: [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)
 
 ### :star: Question
 
-
-
+Given an integer n, return the number of trailing zeroes in n!.
 
 ### :car: Example
 
-
+```
+Input: 3
+Output: 0
+Explanation: 3! = 6, no trailing zero.
+```
 
 ---
 
